@@ -3,7 +3,7 @@
 
 ---
 
-🎓 Laureato in Informatica presso la Facoltà di Computer Science  
+🎓 Laureato in Informatica  
 💼 In cerca di opportunità come **Java Backend Developer**  
 🛠 Tecnologie principali: **Java, Spring Boot, MySQL**  
 📚 Attualmente sto studiando **Angular** e **Docker**  
