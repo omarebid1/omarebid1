@@ -10,12 +10,12 @@
 🧠 Appassionato di clean code, best practice e sviluppo di soluzioni scalabili
 
 📫 **Email:** ebidomar79@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/omarebid](https://linkedin.com/in/omarebid)
+🔗 **LinkedIn:** [linkedin.com/in/omarebid](https://linkedin.com/in/omarebid)  
+🌐 **Portfolio:** [omarebid1.github.io/portfolio](https://omarebid1.github.io/portfolio/)
 
 ---
 
 ## 🔧 Competenze Tecniche
-
 - **Linguaggi & Framework:** Java 17 • Spring Boot • JPA/Hibernate  
 - **Database:** MySQL  
 - **Dev Tools:** Git • Maven • IntelliJ IDEA • Postman  
@@ -40,7 +40,6 @@
 ---
 
 ## 🛠️ Tecnologie e Strumenti
-
 <p align="left">
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
   <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/></a>
@@ -54,7 +53,6 @@
 ---
 
 ## 📊 Statistiche GitHub
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omarebid1&show_icons=true&locale=en" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarebid1&layout=compact" alt="Top Languages" />
